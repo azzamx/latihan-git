@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿warna kegemaran: merah
+=======
+﻿warna kegemaran: hijau
+>>>>>>> branch-hijau
